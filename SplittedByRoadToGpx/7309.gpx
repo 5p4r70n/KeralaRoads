@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <trkseg>
+      <trkpt lat="8.513103334731468" lon="76.97182316333055">
+      </trkpt>
+      <trkpt lat="8.513053929000463" lon="76.9722368940711">
+      </trkpt>
+      <trkpt lat="8.51304398153708" lon="76.97253093123436">
+      </trkpt>
+      <trkpt lat="8.513047960522456" lon="76.97263285517693">
+      </trkpt>
+      <trkpt lat="8.513080123986143" lon="76.97275791317225">
+      </trkpt>
+      <trkpt lat="8.513140140339019" lon="76.9728658720851">
+      </trkpt>
+      <trkpt lat="8.513140140339019" lon="76.9728658720851">
+      </trkpt>
+      <trkpt lat="8.513204135666228" lon="76.97293896228075">
+      </trkpt>
+      <trkpt lat="8.513173822198919" lon="76.97290427321302">
+      </trkpt>
+      <trkpt lat="8.513140140339019" lon="76.9728658720851">
+      </trkpt>
+      <trkpt lat="8.513173822198919" lon="76.97290427321302">
+      </trkpt>
+      <trkpt lat="8.513173822198919" lon="76.97290427321302">
+      </trkpt>
+      <trkpt lat="8.513270120474274" lon="76.97301406413317">
+      </trkpt>
+      <trkpt lat="8.513173822198919" lon="76.97290427321302">
+      </trkpt>
+      <trkpt lat="8.513148761471797" lon="76.97287559509277">
+      </trkpt>
+      <trkpt lat="8.513270120474274" lon="76.97301406413317">
+      </trkpt>
+      <trkpt lat="8.513270120474274" lon="76.97301406413317">
+      </trkpt>
+      <trkpt lat="8.513343068490045" lon="76.97310794144869">
+      </trkpt>
+      <trkpt lat="8.513391147856467" lon="76.97319611907005">
+      </trkpt>
+      <trkpt lat="8.513390153111018" lon="76.97327591478825">
+      </trkpt>
+      <trkpt lat="8.513270120474274" lon="76.97301406413317">
+      </trkpt>
+      <trkpt lat="8.513295983863273" lon="76.97304725646973">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <trkseg>
+      <trkpt lat="10.165603725745399" lon="76.28777503967285">
+      </trkpt>
+      <trkpt lat="10.165650917583037" lon="76.28767345100641">
+      </trkpt>
+      <trkpt lat="10.165596465462073" lon="76.28779079765081">
+      </trkpt>
+      <trkpt lat="10.165551583706915" lon="76.28786019980907">
+      </trkpt>
+      <trkpt lat="10.165146657586774" lon="76.2881663069129">
+      </trkpt>
+      <trkpt lat="10.164873406418664" lon="76.28839764744043">
+      </trkpt>
+      <trkpt lat="10.164873406418664" lon="76.28839764744043">
+      </trkpt>
+      <trkpt lat="10.164996501478626" lon="76.28829337656498">
+      </trkpt>
+      <trkpt lat="10.16482753452091" lon="76.28841776400805">
+      </trkpt>
+      <trkpt lat="10.164873406418664" lon="76.28839764744043">
+      </trkpt>
+      <trkpt lat="10.164302482330243" lon="76.28908663988113">
+      </trkpt>
+      <trkpt lat="10.164464849284613" lon="76.28890927881002">
+      </trkpt>
+      <trkpt lat="10.164468149425105" lon="76.28878857940435">
+      </trkpt>
+      <trkpt lat="10.164433167934135" lon="76.28859210759401">
+      </trkpt>
+      <trkpt lat="10.164873406418664" lon="76.28839764744043">
+      </trkpt>
+      <trkpt lat="10.164302482330243" lon="76.28908663988113">
+      </trkpt>
+      <trkpt lat="10.164403136651103" lon="76.28897666931152">
+      </trkpt>
+      <trkpt lat="10.164008439526086" lon="76.28934312611818">
+      </trkpt>
+      <trkpt lat="10.164302482330243" lon="76.28908663988113">
+      </trkpt>
+      <trkpt lat="10.164231859279639" lon="76.28914833068848">
+      </trkpt>
+      <trkpt lat="10.164302482330243" lon="76.28908663988113">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

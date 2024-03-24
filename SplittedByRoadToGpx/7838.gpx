@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <trkseg>
+      <trkpt lat="10.225597062938974" lon="76.19955886155367">
+      </trkpt>
+      <trkpt lat="10.225661073374894" lon="76.19951594620943">
+      </trkpt>
+      <trkpt lat="10.225681530315612" lon="76.19949549436569">
+      </trkpt>
+      <trkpt lat="10.225705946662472" lon="76.19946599006653">
+      </trkpt>
+      <trkpt lat="10.225718484785816" lon="76.19941502809525">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

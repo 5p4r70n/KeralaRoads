@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <trkseg>
+      <trkpt lat="9.530786665511101" lon="76.57180689275265">
+      </trkpt>
+      <trkpt lat="9.530776415415673" lon="76.57204627990723">
+      </trkpt>
+      <trkpt lat="9.530783689676966" lon="76.57187461853027">
+      </trkpt>
+      <trkpt lat="9.530775754119176" lon="76.57206036150455">
+      </trkpt>
+      <trkpt lat="9.530781044491064" lon="76.57237686216831">
+      </trkpt>
+      <trkpt lat="9.53079129458635" lon="76.57272018492222">
+      </trkpt>
+      <trkpt lat="9.530781044491064" lon="76.57297231256962">
+      </trkpt>
+      <trkpt lat="9.530865359781913" lon="76.57332636415958">
+      </trkpt>
+      <trkpt lat="9.530846512836362" lon="76.5732479095459">
+      </trkpt>
+      <trkpt lat="9.530865359781913" lon="76.57332636415958">
+      </trkpt>
+      <trkpt lat="9.530865359781913" lon="76.57332636415958">
+      </trkpt>
+      <trkpt lat="9.53098703828259" lon="76.57359458506107">
+      </trkpt>
+      <trkpt lat="9.531076974537797" lon="76.57378770411015">
+      </trkpt>
+      <trkpt lat="9.531203943328322" lon="76.57405592501163">
+      </trkpt>
+      <trkpt lat="9.531283298798428" lon="76.574302688241">
+      </trkpt>
+      <trkpt lat="9.53137885598585" lon="76.57454945147038">
+      </trkpt>
+      <trkpt lat="9.531491606819628" lon="76.57479286193848">
+      </trkpt>
+      <trkpt lat="9.530865359781913" lon="76.57332636415958">
+      </trkpt>
+      <trkpt lat="9.530907682743589" lon="76.57341957092285">
+      </trkpt>
+      <trkpt lat="9.531412251397981" lon="76.57462120056152">
+      </trkpt>
+      <trkpt lat="9.531512768262289" lon="76.57483845949173">
+      </trkpt>
+      <trkpt lat="9.53156501056823" lon="76.57504700124264">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

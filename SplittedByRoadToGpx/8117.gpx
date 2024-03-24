@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <trkseg>
+      <trkpt lat="11.263362704438293" lon="75.7679408043623">
+      </trkpt>
+      <trkpt lat="11.263455760094473" lon="75.7686710357666">
+      </trkpt>
+      <trkpt lat="11.263433729252796" lon="75.76849937438965">
+      </trkpt>
+      <trkpt lat="11.263609647120617" lon="75.76988104730844">
+      </trkpt>
+      <trkpt lat="11.263608660665568" lon="75.76987266540527">
+      </trkpt>
+      <trkpt lat="11.263609647120617" lon="75.76988104730844">
+      </trkpt>
+      <trkpt lat="11.263609647120617" lon="75.76988104730844">
+      </trkpt>
+      <trkpt lat="11.263720458881195" lon="75.77141761779785">
+      </trkpt>
+      <trkpt lat="11.263609647120617" lon="75.76988104730844">
+      </trkpt>
+      <trkpt lat="11.263621484580753" lon="75.77004432678223">
+      </trkpt>
+      <trkpt lat="11.263707963788647" lon="75.7712459564209">
+      </trkpt>
+      <trkpt lat="11.263819433147575" lon="75.77279090881348">
+      </trkpt>
+      <trkpt lat="11.263806938059346" lon="75.77261924743652">
+      </trkpt>
+      <trkpt lat="11.263918407379933" lon="75.7741641998291">
+      </trkpt>
+      <trkpt lat="11.263905912295982" lon="75.77399253845215">
+      </trkpt>
+      <trkpt lat="11.263967730074356" lon="75.77484916895628">
+      </trkpt>
+      <trkpt lat="11.26411240992924" lon="75.77553749084473">
+      </trkpt>
+      <trkpt lat="11.26407656879016" lon="75.77536582946777">
+      </trkpt>
+      <trkpt lat="11.26440144060328" lon="75.77691078186035">
+      </trkpt>
+      <trkpt lat="11.264365270682731" lon="75.7767391204834">
+      </trkpt>
+      <trkpt lat="11.264461285370942" lon="75.77719509601593">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

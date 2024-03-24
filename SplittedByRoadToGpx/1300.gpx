@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <trkseg>
+      <trkpt lat="10.050488442398205" lon="76.29450168460608">
+      </trkpt>
+      <trkpt lat="10.050440573385458" lon="76.29431426525116">
+      </trkpt>
+      <trkpt lat="10.050382470298388" lon="76.29411578178406">
+      </trkpt>
+      <trkpt lat="10.050488442398205" lon="76.29450168460608">
+      </trkpt>
+      <trkpt lat="10.050480189120648" lon="76.29446983337402">
+      </trkpt>
+      <trkpt lat="10.0504953751512" lon="76.29456236958504">
+      </trkpt>
+      <trkpt lat="10.050488442398205" lon="76.29450168460608">
+      </trkpt>
+      <trkpt lat="10.049909391933724" lon="76.29482354968786">
+      </trkpt>
+      <trkpt lat="10.05035341875093" lon="76.29466999322176">
+      </trkpt>
+      <trkpt lat="10.0504953751512" lon="76.29456236958504">
+      </trkpt>
+      <trkpt lat="10.050391053709617" lon="76.29464149475098">
+      </trkpt>
+      <trkpt lat="10.0504953751512" lon="76.29456236958504">
+      </trkpt>
+      <trkpt lat="10.048557169706427" lon="76.29548940807581">
+      </trkpt>
+      <trkpt lat="10.049108161330864" lon="76.29526611417532">
+      </trkpt>
+      <trkpt lat="10.049794506085405" lon="76.29486344754696">
+      </trkpt>
+      <trkpt lat="10.05007841931446" lon="76.29476521164179">
+      </trkpt>
+      <trkpt lat="10.048124364961907" lon="76.29556015133858">
+      </trkpt>
+      <trkpt lat="10.048222744733494" lon="76.29557959735394">
+      </trkpt>
+      <trkpt lat="10.04833135860764" lon="76.29556652158499">
+      </trkpt>
+      <trkpt lat="10.048523826264613" lon="76.29550281912088">
+      </trkpt>
+      <trkpt lat="10.04872619779411" lon="76.2954206764698">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
